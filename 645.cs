@@ -1,13 +1,13 @@
-﻿public class Solution {
-
-
-    static void Main(string[] args)
+public class Problem645
+{
+    public void TestProgram()
     {
         int[] arr = { 1, 2, 2, 4};
-        Console.WriteLine(FindErrorNums(arr));
+        FindErrorNums(arr);
     }
 
-    public static int[] FindErrorNums(int[] nums) {
+
+    public int[] FindErrorNums(int[] nums) {
 	var arr = new int[nums.Length+1];
 	var d = -1;
 	for(var i = 0; i < nums.Length; ++i){
