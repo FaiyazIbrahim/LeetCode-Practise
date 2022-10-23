@@ -13,3 +13,18 @@
 /Users/faiyazibrahim/Documents/Practise/LeetCode Practise/obj/Debug/net6.0/LeetCode Practise.pdb
 /Users/faiyazibrahim/Documents/Practise/LeetCode Practise/obj/Debug/net6.0/LeetCode Practise.genruntimeconfig.cache
 /Users/faiyazibrahim/Documents/Practise/LeetCode Practise/obj/Debug/net6.0/ref/LeetCode Practise.dll
+N:\LeetCode\LeetCode-Practise\bin\Debug\net6.0\LeetCode Practise.exe
+N:\LeetCode\LeetCode-Practise\bin\Debug\net6.0\LeetCode Practise.deps.json
+N:\LeetCode\LeetCode-Practise\bin\Debug\net6.0\LeetCode Practise.runtimeconfig.json
+N:\LeetCode\LeetCode-Practise\bin\Debug\net6.0\LeetCode Practise.dll
+N:\LeetCode\LeetCode-Practise\bin\Debug\net6.0\LeetCode Practise.pdb
+N:\LeetCode\LeetCode-Practise\obj\Debug\net6.0\LeetCode Practise.csproj.AssemblyReference.cache
+N:\LeetCode\LeetCode-Practise\obj\Debug\net6.0\LeetCode Practise.GeneratedMSBuildEditorConfig.editorconfig
+N:\LeetCode\LeetCode-Practise\obj\Debug\net6.0\LeetCode Practise.AssemblyInfoInputs.cache
+N:\LeetCode\LeetCode-Practise\obj\Debug\net6.0\LeetCode Practise.AssemblyInfo.cs
+N:\LeetCode\LeetCode-Practise\obj\Debug\net6.0\LeetCode Practise.csproj.CoreCompileInputs.cache
+N:\LeetCode\LeetCode-Practise\obj\Debug\net6.0\LeetCode Practise.dll
+N:\LeetCode\LeetCode-Practise\obj\Debug\net6.0\refint\LeetCode Practise.dll
+N:\LeetCode\LeetCode-Practise\obj\Debug\net6.0\LeetCode Practise.pdb
+N:\LeetCode\LeetCode-Practise\obj\Debug\net6.0\LeetCode Practise.genruntimeconfig.cache
+N:\LeetCode\LeetCode-Practise\obj\Debug\net6.0\ref\LeetCode Practise.dll

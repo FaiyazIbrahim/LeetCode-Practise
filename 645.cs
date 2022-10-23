@@ -1,4 +1,4 @@
-public class Problem645
+public class Solution645
 {
     public void TestProgram()
     {

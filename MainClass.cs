@@ -1,9 +1,9 @@
-﻿public class Solution {
+﻿public class MainSolution {
 
     static void Main(string[] args)
     {
         //Init Class
-        Problem9 problem9 = new Problem9();
-        problem9.TestProgram();
+        Solution14 problem9 = new Solution14();
+        problem9.Test();
     }
 }
