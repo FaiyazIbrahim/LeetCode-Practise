@@ -3,29 +3,24 @@ public class Solution66
 
     public void Test()
     {
-        int[] k = {9};
-        PlusOne(k);
+        int[] k = {9,8,7,6,5,4,3,2,1,0};
+        Console.WriteLine(PlusOne(k));
     }
 
     public int[] PlusOne(int[] digits)
     {
         List<int> arr = new List<int>();
-        for(int i = 0; i < digits.Length - 1; i++)
+        string sum = "";
+        for (int i = 0; i < digits.Length; i++)
         {
-            arr.Add(digits[i]);
+            sum += digits[i];
         }
-        int k = digits[^1] + 1;
-        if(k < 9)
+        int k = int.Parse(sum) + 1;
+        foreach(var v in k.ToString())
         {
-            arr.Add(k);
-        }
-        else
-        {
-            int a = k;
-            int b = a / 10;
-            int c = a % 10;
-            arr.Add(b);
-            arr.Add(c);
+            arr.Add((int)Char.GetNumericValue(v));
+            Console.WriteLine(v);
+            
         }
         return arr.ToArray();
     }
