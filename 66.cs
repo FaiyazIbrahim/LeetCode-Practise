@@ -3,7 +3,7 @@ public class Solution66
 
     public void Test()
     {
-        int[] k = {9,8,7,6,5,4,3,2,1,0};
+        int[] k = {7,2,8,5,0,9,1,2,9,5,3,6,6,7,3,2,8,4,3,7,9,5,7,7,4,7,4,9,4,7,0,1,1,1,7,4,0,0,6};
         Console.WriteLine(PlusOne(k));
     }
 
@@ -15,12 +15,12 @@ public class Solution66
         {
             sum += digits[i];
         }
-        int k = int.Parse(sum) + 1;
+        var k = System.Numerics.BigInteger.Parse(sum) + 1;
+
         foreach(var v in k.ToString())
         {
             arr.Add((int)Char.GetNumericValue(v));
-            Console.WriteLine(v);
-            
+
         }
         return arr.ToArray();
     }
