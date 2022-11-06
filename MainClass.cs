@@ -3,7 +3,7 @@
     static void Main(string[] args)
     {
         //Init Class
-        Solution66 RunClass = new Solution66();
+        Solution121 RunClass = new Solution121();
         RunClass.Test();
     }
 }
