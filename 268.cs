@@ -6,13 +6,9 @@ public class Solution268
         MissingNumber(arr);
     }
     public int MissingNumber(int[] nums) {
-        int result = 0;
-        for(int i = 0; i < nums.Length; i++)
-        {
-
-        }
-        return result;
+        int num = nums.Length + 1;
+        int i = num * (num-1) / 2;
+        int j = nums.Sum();
+        return i - j;
     }
-
-
 }
