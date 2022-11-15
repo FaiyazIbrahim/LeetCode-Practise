@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/faiyazibrahim/Documents/Practise/LeetCode Practise/LeetCode Practise.csproj": {}
+    "N:\\LeetCode\\LeetCode-Practise\\LeetCode Practise.csproj": {}
   },
   "projects": {
-    "/Users/faiyazibrahim/Documents/Practise/LeetCode Practise/LeetCode Practise.csproj": {
+    "N:\\LeetCode\\LeetCode-Practise\\LeetCode Practise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/faiyazibrahim/Documents/Practise/LeetCode Practise/LeetCode Practise.csproj",
+        "projectUniqueName": "N:\\LeetCode\\LeetCode-Practise\\LeetCode Practise.csproj",
         "projectName": "LeetCode Practise",
-        "projectPath": "/Users/faiyazibrahim/Documents/Practise/LeetCode Practise/LeetCode Practise.csproj",
-        "packagesPath": "/Users/faiyazibrahim/.nuget/packages/",
-        "outputPath": "/Users/faiyazibrahim/Documents/Practise/LeetCode Practise/obj/",
+        "projectPath": "N:\\LeetCode\\LeetCode-Practise\\LeetCode Practise.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "N:\\LeetCode\\LeetCode-Practise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/faiyazibrahim/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
